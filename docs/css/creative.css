@@ -414,3 +414,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+#game {
+  padding: 20px;
+  background-color: rgba( 0, 0, 0, 0.2 );
+  border-radius: 20px;
+  box-shadow: 10px 9px 48px -5px rgba(0,0,0,0.75);
+}
